@@ -1,6 +1,6 @@
 ## Hello World!
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=cyrill98&show_icons=true&theme=vue-dark"/>](https://github.com/Cyrill98/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=cyrill98&show_icons=true&theme=synthwave"/>](https://github.com/Cyrill98/)
 
 <a href="https://www.linkedin.com/in/kazi-amit-hasan/">
   <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -35,5 +35,3 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
 
 ⭐️ [Cyrill Anwar](https://github.com/Cyrill98)
 
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
