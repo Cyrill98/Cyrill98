@@ -22,29 +22,22 @@
 
 
 ## This is Cyrill Anwar!
-#### Kaggle Expert (x2) | Undergraduate Research Student
+#### Undergraduate Software Engineering Student
 #### *Currently looking for Data Scientist, Research Assistant Roles!*
 - Data Science and research enthusiast.
-- A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
+- A final year student at University Malaysia Sarawak [(UNIMAS)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
 - Currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice.
 - **Latest Publication**: Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets *(Accepted in TENSYMP 2020)*
 
-**To know more:**  [Website](https://cyrill98.netlify.com/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](kaziamithasan89@gmail.com)
+**To know more:**  [Website](https://cyrill98.netlify.com/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](cyrillanwar98@gmail.com)
 
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 
-⭐️ From [AmitHasanShuvo](https://github.com/AmitHasanShuvo)
+⭐️ [Cyrill Anwar](https://github.com/Cyrill98)
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
