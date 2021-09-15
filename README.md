@@ -5,11 +5,11 @@
 <a href="https://www.linkedin.com/in/kazi-amit-hasan/">
   <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AmitHasanShuvo">
-  <img align="left" alt="Shuvo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/Cyrill98">
+  <img align="left" alt="Cyrill's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCES_2FWYQbgyikzxCQ_oOVQ?view_as=subscriber">
-  <img align="left" alt="Shuvo's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+  <img align="left" alt="Cyrill's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
 </a>
 
 <a href="https://www.kaggle.com/amithasanshuvo">
@@ -25,7 +25,7 @@
 #### Undergraduate Software Engineering Student
 #### *Currently looking for Data Scientist, Research Assistant Roles!*
 - Data Science and research enthusiast.
-- A final year student at University Malaysia Sarawak [(UNIMAS)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
+- A final year student at University Malaysia Sarawak [(UNIMAS)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science (Software Engineering). 
 - Currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice.
 - **Latest Publication**: Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets *(Accepted in TENSYMP 2020)*
 
@@ -36,7 +36,7 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
 ⭐️ [Cyrill Anwar](https://github.com/Cyrill98)
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+[![Cyrill's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrill98)](https://github.com/cyrill98/github-readme-stats)
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
