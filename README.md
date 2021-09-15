@@ -25,7 +25,7 @@
 #### Undergraduate Software Engineering Student
 #### *Currently looking for Data Scientist, Research Assistant Roles!*
 - Data Science and research enthusiast.
-- A final year student at University Malaysia Sarawak [(UNIMAS)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science (Software Engineering). 
+- A final year student at University Malaysia Sarawak [(UNIMAS)](https://www.unimas.my), completing my BSc. degree in Computer Science (Software Engineering). 
 - Currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice.
 - **Latest Publication**: Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets *(Accepted in TENSYMP 2020)*
 
