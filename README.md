@@ -36,8 +36,6 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
 ⭐️ [Cyrill Anwar](https://github.com/Cyrill98)
 
 
-[![Cyrill's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrill98)](https://github.com/cyrill98/github-readme-stats)
-
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cyrill98&show_icons=true&theme=synthwave" alt="Cyrill98 :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cyrill98&show_icons=true&theme=vue-dark" alt="Cyrill98 :: Profile Stats" /></p>
