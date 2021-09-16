@@ -23,7 +23,7 @@
 
 ## This is Cyrill Anwar!
 #### Undergraduate Software Engineering Student
-#### *Currently looking for Data Scientist, Research Assistant Roles!*
+#### *Currently looking for Data Scientist, Data Analyst Roles!*
 - Data Science and research enthusiast.
 - A final year student at University Malaysia Sarawak [(UNIMAS)](https://www.unimas.my), completing my BSc. degree in Computer Science (Software Engineering). 
 - Currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice.
