@@ -22,8 +22,8 @@
 
 
 ## This is Cyrill Anwar!
-#### Undergraduate Software Engineering Student
-#### *Currently looking for Data Scientist, Data Analyst Roles!*
+#### Freshgraduate Software Engineering Student
+#### *Currently looking for Software Engineer, Data Analyst, Data Scientist Roles!*
 - Data enthusiast.
 - A final year student at University Malaysia Sarawak [(UNIMAS)](https://www.unimas.my), completing my BSc. degree in Computer Science (Software Engineering). 
 - **Latest Publication**: Detection of Distracted Students using Machine Learning*
