@@ -26,7 +26,7 @@
 #### *Currently looking for Software Engineer, Data Analyst, Data Scientist Roles!*
 - Data enthusiast.
 - A final year student at University Malaysia Sarawak [(UNIMAS)](https://www.unimas.my), completing my BSc. degree in Computer Science (Software Engineering). 
-- **Latest Publication**: <a href="https://github.com/Cyrill98/Cyrill98/blob/main/Detection%20of%20Distracted%20Students%20Using%20Machine%20Learning.pdf">Detection of Distracted Students using Machine Learning<a>
+- **Final Year Project**: <a href="https://github.com/Cyrill98/Cyrill98/blob/main/Detection%20of%20Distracted%20Students%20Using%20Machine%20Learning.pdf">Detection of Distracted Students using Machine Learning<a>
 
 **To know more:**  [Website](https://cyrill98.netlify.com/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](cyrillanwar98@gmail.com)
 
